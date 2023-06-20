@@ -41,8 +41,8 @@ const Hero = ({}: HeroProps) => {
                         </span>
                     </h1>
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-                        Unleash the power of AI within Tesseract. Upgrade your
-                        productivity with Tesseract, the open AI chat app.
+                    Use conversational AI to track and analyze Blockchain Data. Upgrade
+						your crypto research with Tesseract.
                     </p>
                     <Button href="/pricing" white>
                         Get started
