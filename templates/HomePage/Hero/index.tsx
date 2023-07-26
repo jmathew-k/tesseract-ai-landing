@@ -5,7 +5,7 @@ import Button from "@/components/Button";
 import Image from "@/components/Image";
 import Generating from "@/components/Generating";
 import Notification from "@/components/Notification";
-import Logos from "@/components/Logos";
+// import Logos from "@/components/Logos";
 
 type HeroProps = {};
 
@@ -30,7 +30,7 @@ const Hero = ({}: HeroProps) => {
                     <h1 className="h1 mb-6">
                         New&nbsp;Paradigm&nbsp;for {" "}
                         <span className="inline-block relative">
-                            Crypto Analytics
+                            Ontology & Analytics
                             <Image
                                 className="absolute top-full left-0 w-full xl:-mt-2"
                                 src="/images/curve.png"
@@ -41,8 +41,8 @@ const Hero = ({}: HeroProps) => {
                         </span>
                     </h1>
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-                    Use conversational AI to track and analyze Blockchain Data. Upgrade
-						your crypto research with Tesseract.
+                    Use Large Language Models to analyze Data. Upgrade
+						your intelligence toolbox with Tesseract.
                     </p>
                     <Button href="/pricing" white>
                         Get started
@@ -55,7 +55,7 @@ const Hero = ({}: HeroProps) => {
                             <div className="aspect-[33/40] rounded-b-[0.875rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                                 <Image
                                     className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10.5%] lg:-translate-y-[23.5%]"
-                                    src="/images/hero/graph-z2.svg"
+                                    src="/images/testimonials/testimonial-2.png"
                                     width={1024}
                                     height={490}
                                     alt="AI"
@@ -167,7 +167,7 @@ const Hero = ({}: HeroProps) => {
                         {/* </MouseParallax> */}
                     </div>
                 </div>
-                <Logos className="hidden relative z-10 mt-20 lg:block" />
+                {/* <Logos className="hidden relative z-10 mt-20 lg:block" /> */}
             </div>
             <div className="hidden absolute top-[55.25rem] left-10 right-10 h-0.25 bg-n-6 pointer-events-none xl:block"></div>
             <svg

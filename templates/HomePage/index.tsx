@@ -7,7 +7,7 @@ import Features from "./Features";
 import Collaboration from "./Collaboration";
 import HowItWorks from "./HowItWorks";
 import Pricing from "./Pricing";
-import Testimonials from "./Testimonials";
+// import Testimonials from "./Testimonials";
 import Roadmap from "./Roadmap";
 import Services from "@/components/Services";
 import Join from "@/components/Join";
@@ -22,7 +22,7 @@ const HomePage = () => {
             <HowItWorks />
             <Services />
             <Pricing />
-            <Testimonials />
+            {/* <Testimonials /> */}
             <Roadmap />
             <Join />
         </Layout>
