@@ -25,9 +25,9 @@ const grotesk = Space_Grotesk({
 });
 
 export const metadata = {
-    title: "Tesseract - LLMs for Crypto Analytics",
+    title: "Tesseract - LLMs for Analytics",
     description:
-        "Tesseract uses Large Language Models to take user queries as natural language questions and then sifts through crypto data streams to surface concise signals.",
+        "Tesseract uses Large Language Models to take user queries as natural language questions and then sifts through data streams to surface concise signals.",
     icons: {
         icon: "/favicon.ico",
     },
@@ -42,8 +42,8 @@ export default function RootLayout({
         <html lang="en">
             <head>
                 <meta
-                    content="Beautiful AI Landing Page UI Kit for your next website projects"
-                    name="Tesseract - LLMs for Crypto Research & Data"
+                    content="Tesseract uses Large Language Models to take user queries as natural language questions and then sifts through data streams to surface concise signals."
+                    name="Tesseract - LLMs for Research & Data"
                 />
                 <meta
                     content="Tesseract - LLMs for Crypto Research & Data"

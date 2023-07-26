@@ -23,8 +23,8 @@ const Join = ({}: JoinProps) => (
 						</span>
 					</h1>
 					<p className='body-1 mb-8 text-n-4'>
-                    Use conversational AI to track and analyze Blockchain Data. Upgrade
-						your crypto research with Tesseract.
+                    Use conversational AI to track and analyze Data. Upgrade
+						your intelligence toolbox with Tesseract.
 					</p>
 					<Button href='/pricing' white>
 						Get started
