@@ -30,7 +30,7 @@ const Pricing = ({}: PricingProps) => {
                 </div>
                 <Heading
                     tag="Get started with Tesseract"
-                    title="Pay once, use forever"
+                    title="Pick the edition"
                 />
                 <div className="relative">
                     <PricingList />

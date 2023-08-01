@@ -42,7 +42,7 @@ const Hero = ({}: HeroProps) => {
                     </h1>
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
                     Use Large Language Models to analyze Data. Upgrade
-						your intelligence toolbox with Tesseract.
+						your decision rubric with Tesseract.
                     </p>
                     <Button href="/pricing" white>
                         Get started

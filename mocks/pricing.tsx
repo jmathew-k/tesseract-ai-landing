@@ -1,7 +1,7 @@
 export const pricing = [
     {
         id: "0",
-        title: "Basic",
+        title: "Standard",
         description: "AI chatbot, personalized recommendations",
         price: "0",
         features: [
@@ -12,10 +12,10 @@ export const pricing = [
     },
     {
         id: "1",
-        title: "Premium",
+        title: "Pro",
         description:
             "Advanced AI chatbot, priority support, analytics dashboard",
-        price: "9.99",
+        price: null,
         features: [
             "An advanced AI chatbot that can understand complex queries",
             "An analytics dashboard to track your conversations",
